@@ -7,3 +7,7 @@ Dot
 Monte
 Mocha
 George the Frog
+
+Gumpy cat
+Millie
+Higgins
